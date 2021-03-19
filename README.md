@@ -1,5 +1,7 @@
 # FinProject
 
+Источники данных:
+
 Экономические индексы США: https://investfunds.ru/indexes
 
 Индексы Мосбиржи (ММВБ) и РТС: https://www.moex.com/ru/index
